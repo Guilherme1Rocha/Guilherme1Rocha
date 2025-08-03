@@ -20,4 +20,4 @@
 ---
 
 ### 🌐 Let's Connect!
-- [LinkedIn](http://www.linkedin.com/in/guilherme-rocha-41b058284)
+- [LinkedIn](www.linkedin.com/in/guilherme-rocha-dev)
