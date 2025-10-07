@@ -1,15 +1,12 @@
 # 👋 Hi there! I'm Guilherme Rocha
 
-## 🎓 Computer Science and Engineering student at [IST – Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  
-## 💼 Software Engineer Intern at [Intapp](https://www.intapp.com/)  
-## 🧠 Software Team Member at [PSEM](https://psemportugal.com/)  
-
+## 🎓 Computer Science and Engineering @ [IST – Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)  
 ---
 
 ## 💻 What I'm Curently Working On
-### 🚀 Building an AI agent to help QA testers triage client-reported bugs and analyze PRs  
-### 🤖 Leveraging Python, LangChain, LangGraph, and Langfuse in a RAG-based AI agent system for software QA  
-### 🛠️ Exploring full-stack development, LLMs, and developer tooling
+### ☕ Learning the Java ecosystem, including Spring Boot for backend development 
+### 🗄️ Exploring SQL and NoSQL databases
+### 🛠️ Expanding full-stack development skills and deepening understanding of software architecture and system design
 
 ---
 
