@@ -4,7 +4,7 @@
 ---
 
 ## 💻 What I'm Curently Working On
-### ☕ Learning the Java ecosystem, including Spring Boot for backend development 
+### 🟢🔺 Learning the NodeJS ecosystem and Angular
 ### 🗄️ Exploring SQL and NoSQL databases
 ### 🛠️ Expanding full-stack development skills and deepening understanding of software architecture and system design
 
