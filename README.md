@@ -1,18 +1,35 @@
 # 👋 Hi there! I'm Guilherme Rocha
 
-#### I’m someone who enjoys learning, exploring new ideas, and taking on projects that help me grow. I love solving problems, working with others, and creating things that feel meaningful and useful. I’m always looking for new challenges whether through my work or personal projects that push me to keep improving. I have Bachelor's degree in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) and I'm currently working as a Software Engineer at [Cisco](https://www.cisco.com/)
----
-### Recently I've been...
-- #### ⚙️ Learning the NodeJS ecosystem and Angular 
-- #### 🗄️ Exploring NoSQL databases  
-- #### 🛠️ Expanding full-stack development skills and deepening understanding of software architecture and system design
+**Software Engineer @ Cisco**  
+**BSc in Computer Science and Engineering — Instituto Superior Técnico**
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1Rocha&layout=compact&theme=radical&count_private=true)
+I’m a **Software Engineer** who enjoys learning, exploring new ideas, and building meaningful systems. I like tackling challenging problems, working in collaborative environments, and continuously improving both technically and professionally.
+
+I hold a **Bachelor’s degree in Computer Science and Engineering** from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) and currently work at [Cisco](https://www.cisco.com/), where I focus on building reliable, scalable software and deepening my understanding of system design and architecture.
 
 ---
 
-### 📫 How to reach me: rochaguilherme035@gmail.com
+## 🧠 Currently Learning & Exploring
+
+- ⚙️ Node.js ecosystem and backend development  
+- 🌐 Angular and modern frontend development  
+- 🗄️ NoSQL databases and data modeling  
+- 🛠️ Full-stack development, software architecture, and system design  
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1Rocha&layout=compact&theme=radical&count_private=true)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: rochaguilherme035@gmail.com  
+- 💼 LinkedIn: [Guilherme Rocha](www.linkedin.com/in/guilherme-rocha-dev)
+
