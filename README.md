@@ -31,5 +31,5 @@ I hold a **Bachelor’s degree in Computer Science and Engineering** from [Insti
 ## 📫 Get in Touch
 
 - 📧 Email: rochaguilherme035@gmail.com  
-- 💼 LinkedIn: [Guilherme Rocha](www.linkedin.com/in/guilherme-rocha-dev)
+- 💼 LinkedIn: [Guilherme Rocha](https://www.linkedin.com/in/guilherme-rocha-dev/)
 
