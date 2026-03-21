@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Guilherme Rocha
 
 **Software Engineer @ Cisco**  
-**BSc in Computer Science and Engineering — Instituto Superior Técnico**
+**BSc in Computer Science and Engineering @ Instituto Superior Técnico**
 
 ---
 
