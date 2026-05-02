@@ -15,7 +15,7 @@ I hold a **Bachelor’s degree in Computer Science and Engineering** from [Insti
 
 ## 🧠 Currently Learning & Exploring
 
-- ⚙️ Node.js ecosystem and backend development  
+- ⚙️ NodeJS/Spring Boot ecosystem and backend development  
 - 🌐 Angular and modern frontend development  
 - 🗄️ NoSQL databases and data modeling  
 - 🛠️ Full-stack development, software architecture, and system design  
