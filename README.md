@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Guilherme Rocha
 
-### Incoming MSc CS @ TU Delft
+### MSc CS @ TU Delft
 
 ---
 
